@@ -1,0 +1,8 @@
+.Title .edit-icon {
+    opacity: 0;
+    transform: all 0.5s;
+    cursor: pointer;
+}
+.Title:hover .edit-icon{
+    opacity: 1;
+}
